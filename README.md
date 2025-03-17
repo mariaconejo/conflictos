@@ -1,6 +1,8 @@
 # Conflicto Repo
 
-Este repositorio está diseñado para enseñar a resolver conflictos en Git mediante ejemplos prácticos. Contiene múltiples ramas que generan intencionadamente conflictos para aprender cómo solucionarlos.
+
+Propósito: Enseñar resolución de conflictos en Git.
+
 
 ## Estructura del Proyecto
 
